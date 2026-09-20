@@ -2,6 +2,7 @@ from collections import defaultdict
 import gymnasium as gym
 import numpy as np
 
+# This is a reinforcement learning agent
 class CartPoleAgent:
     def __init__(
         self,
